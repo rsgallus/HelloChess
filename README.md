@@ -8,7 +8,7 @@ The game enforces turns and only allows movements to empty spaces or attacking e
 
 You most have a recent version of Node and React installed.
 
-Download the source code and open a new terminal window. Change to the Hello-Chess directory and launch the develoment server with 'npm start'
+Download the source code and open a new terminal window. Change to the Hello-Chess directory and launch the develoment server with `npm start`
 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
